@@ -1,3 +1,10 @@
+
+'''
+    Logic gate simulation in Python
+    
+    Author: Harshit Joshi
+'''
+
 def andgate(a, b):
     if (a == 1 or a == 0) and (b==1 or b==0):
         if a == 1 and b == 1:
